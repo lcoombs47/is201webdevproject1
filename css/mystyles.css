@@ -95,14 +95,14 @@ h1{
 
 nav{
     background-color: whitesmoke;
-    padding: 10px;
+    padding: 0px;
     display: flex;
     overflow: hidden;
     align-items: center;
 }
 
 nav a{
-    padding: 10px;
+    padding: 0px;
     text-decoration: none;
     display: flex;
     font-weight: bold;
