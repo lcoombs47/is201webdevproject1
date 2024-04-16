@@ -3,7 +3,7 @@
 .post-title{
     color:#617C92ff;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 45px;
+    font-size: 35px;
 }
 
 .site-heading{
@@ -30,13 +30,13 @@
 }
 
 .nova{
-    font-size: 25px;
+    font-size: 15px;
 }
 
 .enjoy{
     color:#617C92ff;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 45px;
+    font-size: 35px;
     text-align: center;
 }
 
@@ -49,7 +49,7 @@
 
 body{
     font-family: 'Playfair';
-    font-size: 25px;
+    font-size: 15px;
     padding-left: 0px;
     background-color: #afdae0;
     margin-top: -65px;
@@ -74,7 +74,7 @@ ol{
 .header{
     background-color: cadetblue;
     color: white;
-    font-size: 40px;
+    font-size: 35px;
     height: 150px;
     line-height: 150px;
     text-align: center;
@@ -118,7 +118,7 @@ img{
 }
 
 .image{
-    font-size: 40px;
+    font-size: 35px;
     text-align: center;
     color:black;
 }
