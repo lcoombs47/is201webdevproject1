@@ -96,13 +96,13 @@ h1{
 nav{
     background-color: whitesmoke;
     padding: 15px;
-    padding-bottom:10px;
+    padding-bottom:15px;
     overflow: hidden;
 }
 
 nav a{
     padding: 15px;
-    padding-bottom:10px;
+    padding-bottom:15px;
     text-decoration: none;
     font-weight: bold;
     color: cadetblue;
