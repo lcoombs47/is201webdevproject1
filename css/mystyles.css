@@ -78,6 +78,7 @@ ol{
     height: 100px;
     line-height: 100px;
     text-align: center;
+    padding-top:15px;
 }
 
 h1{
@@ -95,12 +96,13 @@ h1{
 nav{
     background-color: whitesmoke;
     padding: 15px;
-    padding-top: 0px;
+    padding-bottom:10px;
     overflow: hidden;
 }
 
 nav a{
     padding: 15px;
+    padding-bottom:10px;
     text-decoration: none;
     font-weight: bold;
     color: cadetblue;
