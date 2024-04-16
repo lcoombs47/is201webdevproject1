@@ -98,7 +98,7 @@ nav{
     padding: 15px;
     overflow: hidden;
     display:inline-block;
-    border-bottom:10px solid whitesmoke;
+    border-bottom:15px solid whitesmoke;
 }
 
 nav a{
@@ -108,7 +108,7 @@ nav a{
     color: cadetblue;
     float:left;
     display:inline-block;
-    border-bottom:10px solid whitesmoke;
+    border-bottom:15px solid whitesmoke;
 }
 
 nav a:hover{
