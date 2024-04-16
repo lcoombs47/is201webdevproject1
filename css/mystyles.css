@@ -95,21 +95,19 @@ h1{
 
 nav{
     background-color: whitesmoke;
-    padding: 15px;
+    padding: 10px;
     display: flex;
     overflow: hidden;
-    border-bottom:20px solid whitesmoke;
     align-items: center;
 }
 
 nav a{
-    padding: 15px;
+    padding: 10px;
     text-decoration: none;
     display: flex;
     font-weight: bold;
     color: cadetblue;
     float:left;
-    border-bottom:20px solid whitesmoke;
     align-items:center;
 }
 
