@@ -75,8 +75,8 @@ ol{
     background-color: cadetblue;
     color: white;
     font-size: 25px;
-    height: 115px;
-    line-height: 115px;
+    height: 120px;
+    line-height: 120px;
     text-align: center;
     padding-top:15px;
 }
@@ -88,7 +88,7 @@ h1{
 .common{
     background-color: aliceblue;
     height:35px;
-    line-height:20px;
+    line-height:35px;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
